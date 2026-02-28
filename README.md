@@ -1,28 +1,30 @@
-## Experimental Setup
+Action-Printer
 
-The prototype was tested using an official mobile LLM application (Claude mobile app) paired with the external execution gateway.
+Public Technical Record
 
-The model ran entirely inside the mobile application.
-No API keys or embedded model processes were used on the computer.
+This repository documents a real-world test in which a mobile large language model (LLM) application was used to operate a desktop computer through an external execution gateway.
 
-The desktop system only received constrained action commands selected from a predefined local skill library.
+Verified Timestamped Evidence
 
-## Experimental Setup
+The experiment log has been permanently recorded using Git version control and cryptographic commit history.
 
-The prototype was tested using an official mobile LLM application (Claude mobile app) paired with the external execution gateway.
+Primary Evidence (Immutable Commit Record):
+https://github.com/ruikhu007/action-printer/commit/e94e91975c8a974ea23207b02d5aaa5d47fb279d
 
-The model ran entirely inside the mobile application.
-No API keys or embedded model processes were used on the computer.
+This commit contains a timestamped public disclosure of the architecture and real-world validation.
 
-The desktop system only received constrained action commands selected from a predefined local skill library.
+Purpose
 
-## Experimental Status
+The purpose of this repository is chronological technical disclosure.
+It serves as a public engineering record establishing that:
 
-This repository documents a working prototype.
+•⁠  ⁠A mobile LLM application can issue operational instructions
+•⁠  ⁠Instructions can be transmitted through a constrained execution interface
+•⁠  ⁠A desktop computer can be directly operated via the external execution gateway
 
-The system has been tested using an official mobile LLM application (Claude mobile app) operating a real desktop computer through the external action gateway.
+No proprietary or unsafe control access is provided in this repository.
+This repository is documentation of architecture and experiment only.
 
-The model does not run on the computer and does not use API access to control the system.
+Date of Disclosure
 
-Instead, the mobile application produces natural language instructions, which are mapped to a constrained local action skill library executed by the gateway.
-=========================
+March 1, 2026
