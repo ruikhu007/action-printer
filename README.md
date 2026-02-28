@@ -33,4 +33,13 @@ The gateway executes it.
 
 We turned computer control from a continuous control problem into a discrete decision problem.
 
+## Experimental Setup
+
+The prototype was tested using an official mobile LLM application (Claude mobile app) paired with the external execution gateway.
+
+The model ran entirely inside the mobile application.
+No API keys or embedded model processes were used on the computer.
+
+The desktop system only received constrained action commands selected from a predefined local skill library.
+
 This makes the system predictable, auditable, and safer.
