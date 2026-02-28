@@ -25,3 +25,4 @@ The system has been tested using an official mobile LLM application (Claude mobi
 The model does not run on the computer and does not use API access to control the system.
 
 Instead, the mobile application produces natural language instructions, which are mapped to a constrained local action skill library executed by the gateway.
+=========================
