@@ -18,6 +18,12 @@ SomaBridge is documented here:
 
 - [docs/somabridge.md](docs/somabridge.md)
 
+## Evidence
+
+Multi-model operational evidence is documented here:
+
+- [docs/evidence.md](docs/evidence.md)
+
 ## Public Technical Record
 
 This repository documents real-world tests in which large language model (LLM) applications were used to operate a desktop computer through an external execution gateway.
